@@ -1,0 +1,8 @@
+<x-guest-layout>
+    <div class="container flex flex-wrap pt-4 pb-10 m-auto mt-6 md:mt-15 lg:px-12 xl:px-16">
+        <div class="w-full px-0 lg:px-4">
+            
+            @livewire('subscription.index')
+        </div>
+    </div>
+</x-guest-layout>
